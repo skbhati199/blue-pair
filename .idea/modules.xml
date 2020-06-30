@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-blue-pair.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-blue-pair.iml" group="blue-pair" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/blue-pair.iml" filepath="$PROJECT_DIR$/blue-pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/blue-pair-app.iml" filepath="$PROJECT_DIR$/app/blue-pair-app.iml" group="blue-pair/app" />
     </modules>
   </component>
 </project>
